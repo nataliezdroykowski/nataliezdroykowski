@@ -1,4 +1,13 @@
-## Hi there 👋
+## About me!
+
+Hi, I'm Natalie Zdroykowski! I'm a second-year Computer Science and Mathematics major at Northeastern University with a passion for technology, innovation, and problem-solving. With a strong foundation in Java and experience with various other programming and database languages, I'm constantly expanding my skill set. I'm particularly interested in app development, web development, data science, and software engineering, and I'm excited about the ever-evolving world of cybersecurity.
+
+In addition to my programming skills, I have hands-on experience with Git, Bash, Linux, and more, which has deepened my understanding of system architecture and security. I am enthusiastic about any opportunities that allow me to merge my technical skills with creative solutions, and I'm always eager to explore new technologies and frameworks.
+
+- Portfolio: https://nataliezdroykowski.github.io/index.html
+- LinkedIn: www.linkedin.com/in/nataliezdroykowski
+
+
 
 <!--
 **nataliezdroykowski/nataliezdroykowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
